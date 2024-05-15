@@ -1,0 +1,9 @@
+The word was chocolate. The number of guesses was 6. The game was Win.
+The word was elephant. The number of guesses was 6. You Won.
+The word was universe. The number of guesses was 4. You Won.
+The word was jellyfish. The number of guesses remaining was 3. You Won.
+The word was umbrella. The number of guesses remaining was 6. You Won.
+The word was chocolate. The number of guesses remaining was 6. You Won.
+The word was sunshine. The number of guesses remaining was 5. You Won.
+The word was rainbow. The number of guesses remaining was 5. You Won.
+The word was jellyfish. The number of guesses remaining was 0. You Lost.

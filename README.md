@@ -1,7 +1,7 @@
-# Self-Assessment
+# Final Project Status
 | Name       | Value          |
 | ------- |:-------------:|
-| Course: |  CSCI 110-002-44860 Beg Programming:Python |
+| Course: |  CSCI 110-002-44860 Beg Programming: Python |
 | Assignment: | Final Project - Hangman |
 | Due date: |  May 17, 2024  |
 | Status: |  All Requirements Met |
